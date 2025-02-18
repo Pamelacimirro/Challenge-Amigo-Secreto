@@ -9,6 +9,9 @@ I'm glad you visited!
 ## 💠 Functionalities
 
 - Insert names;
+  
+  <img src="./assets/captura tela.png" width=40% alt="captura de tela explicativa"/>
+
 - Creating and displaying a list of entered names;
 - Draw of names chosen at random;
 - Display the draw name.
@@ -17,4 +20,4 @@ I'm glad you visited!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="./assets/captura tela.png" width=30% alt="captura de tela explicativa"/>
+
